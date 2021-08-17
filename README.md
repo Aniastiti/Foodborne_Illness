@@ -1,9 +1,12 @@
 # Foodborne Illness
-![CDC Logo](./images/CDC-Logo1.jpg)
+![CDC Logo](./images/CDC-Logo1_2.jpg)
 
 ##Table Of Contents
-* [SUMMARY](#SUMMARY)
-* [MOTIVATION](#MOTIVATION)
+* [Summary](#Summary)
+* [Motivation](#Motivation)
+* [Analysis](#Analysis)
+* [Tools Used](#Tools Used)
+* [Visualizations](#Visualizations)
 
 ## SUMMARY
 Foodborne illness is a serious but manageable problem in the United States.
@@ -22,5 +25,14 @@ to light the seriousness of this issue. There are a system of programs and
 safeguards in place at every step from the farm to the table, but foodborne
 illness still occurs. I plan to explore possible reasons for that.
 
+##Analysis
+
+##Tools Used
+
+##Visualizations
 
 ![Number of Illnesses Line](./images/no_of_reported_foodborne_illnesses_1998_2015.png)
+
+![Number of Hospitalizations Line](./images/no_of_reported_hospitalizations_foodborne_illness_1998_2015.png)
+
+![Number of Deaths](./images/no_of_deaths_reported_foodborne_illness_1998_2015.png)
