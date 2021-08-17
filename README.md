@@ -1,5 +1,6 @@
 # Foodborne Illness
-![CDC Logo](./images/CDC-Logo1.jpg)|![ERS Logo](./images/USDA Economic Research Service.jpg)
+![CDC Logo](./images/st,small,507x507-pad,600x600,f8f8f8.u3.jpg)
+![ERS Logo](./images/USDA Economic Research Service.jpg)
 
 ## Table Of Contents
 * [Summary](#Summary)
@@ -10,7 +11,7 @@
 * [Link to Tableau Dashboard](#Link-to-Tableau-Dashboard)
 * [Sources](#Sources)
 
-## SUMMARY
+## Summary
 Foodborne illness is a serious but manageable problem in the United States.
 This project will be an exploration of the extent, causes and effects of
 foodborne illness. Data from the United States Department of Agriculture,
@@ -20,7 +21,7 @@ with illnesses and hospitalizations. The project will also consider the
 distribution of illnesses across the United States and possible sources of
 contamination.
 
-## MOTIVATION
+## Motivation
 I have chosen foodborne illness as the subject for my capstone project. I have
 worked in the food manufacturing industry in the past and that experience has
 brought about a passion for the subject as well as knowledge I can use to bring
@@ -59,5 +60,5 @@ My analysis of the data centered on three questions:
 ## Link to Tableau dashboard
 
 ## Sources
-•	https://data.world/cdc/foodborne-outbreak-database/workspace/file?filename=FoodData.xlsx
-•	https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses.aspx
+https://data.world/cdc/foodborne-outbreak-database/workspace/file?filename=FoodData.xlsx
+https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses.aspx
