@@ -1,11 +1,11 @@
 # Foodborne Illness
 ![CDC Logo](./images/CDC-Logo1.jpg)
 
-##Table of Contents
-#[Summary](#Summary)
-#[Motivation](#Motivation)
+##Table Of Contents
+* [SUMMARY](#SUMMARY)
+* [MOTIVATION](#MOTIVATION)
 
-## Summary
+## SUMMARY
 Foodborne illness is a serious but manageable problem in the United States.
 This project will be an exploration of the extent, causes and effects of
 foodborne illness. Data from the United States Department of Agriculture and
@@ -14,10 +14,13 @@ foodborne illness on people, the costs associated with sicknesses and
 hospitalizations. The project will also consider the distribution of illnesses
 across the United States and sources of contamination.
 
-## Motivation
+## MOTIVATION
 I have chosen foodborne illness as the subject for my capstone project. I have
 worked in the food manufacturing industry in the past and that experience has
 brought about a passion for the subject as well as knowledge I can use to bring
 to light the seriousness of this issue. There are a system of programs and
 safeguards in place at every step from the farm to the table, but foodborne
 illness still occurs. I plan to explore possible reasons for that.
+
+
+![Number of Illnesses Line](./images/no_of_reported_foodborne_illnesses_1998_2015.png)
