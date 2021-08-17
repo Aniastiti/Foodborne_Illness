@@ -1,5 +1,5 @@
 # Foodborne Illness
-![CDC Logo](./images/CDC-logo-4inch)
+![CDC Logo](./images/CDC-logo-4inch.jpg)
 
 ## Summary
 Foodborne illness is a serious but manageable problem in the United States.
