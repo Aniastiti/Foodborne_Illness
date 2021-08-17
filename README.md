@@ -1,7 +1,7 @@
 # Foodborne Illness
-![CDC Logo](./images/CDC-Logo1.jpg)
+![CDC Logo](./images/CDC-Logo1.jpg)|![ERS Logo](./images/USDA Economic Research Service.jpg)
 
-##Table Of Contents
+## Table Of Contents
 * [Summary](#Summary)
 * [Motivation](#Motivation)
 * [Analytical Approach](#Analytical-Approach)
@@ -29,6 +29,13 @@ safeguards in place at every step from the farm to the table, but foodborne
 illness still occurs. I plan to explore possible reasons for that.
 
 ## Analytical Approach
+I pulled a dataset on reported cases of foodborne illness from 1998 to 2015 from the CDC.
+This dataset included the number of illnesses, hospitalizations and deaths associated
+with foodborne illness. The dataset also contained information on causative agents,
+state where the illness occurred, location where the food was prepared and the food vehicle
+associated with the illnesses that allowed me to filter the illnesses and group them
+by these factors. I also pulled a dataset from the USDA ERS that described estimated
+monetary costs of foodborne illness. The cost estimates were due to visits to physicians, hospitals, emergency rooms, etc. and also included cost estimates of lost productivity, chronic conditions resulting from the illnesses and premature death.
 My analysis of the data centered on three questions:
 - What effect does foodborne illness have on the people of the United States?
 - What are monetary costs associated with foodborne illness?
@@ -48,3 +55,9 @@ My analysis of the data centered on three questions:
 ![Number of Hospitalizations Line](./images/no_of_reported_hospitalizations_foodborne_illness_1998_2015.png)
 
 ![Number of Deaths](./images/no_of_deaths_reported_foodborne_illness_1998_2015.png)
+
+## Link to Tableau dashboard
+
+## Sources
+•	https://data.world/cdc/foodborne-outbreak-database/workspace/file?filename=FoodData.xlsx
+•	https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses.aspx
