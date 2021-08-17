@@ -4,10 +4,10 @@
 ##Table Of Contents
 * [Summary](#Summary)
 * [Motivation](#Motivation)
-* [Analytical Approach](#Analytical Approach)
-* [Tools Used](#Tools Used)
+* [Analytical Approach](#Analytical-Approach)
+* [Tools Used](#Tools-Used)
 * [Visualizations](#Visualizations)
-* [Link to Tableau Dashboard](#Link to Tableau Dashboard)
+* [Link to Tableau Dashboard](#Link-to-Tableau-Dashboard)
 * [Sources](#Sources)
 
 ## SUMMARY
