@@ -50,30 +50,35 @@ My analysis of the data centered on three questions:
 ## Analysis
 #### Number of Illnesses per Year
 - Mean number of illnesses over this timeframe was 20,752 per year
-- Seems to be decreasing over this timeframe
-- Hypothesis test to see if slope of line is 0: p-value: <0.0001
-- P-value: <0.05 so there is a change over time
-- Change in reporting process in 2009 that could account for this change
+- Change in reporting process in 2009
 ![Number of Illnesses Line](./images/no_of_reported_foodborne_illnesses_1998_2015.png)
 
 #### Number of Hospitalizations per Year
 - Mean number of hospitalizations over this timeframe was 816 per year
-- Increasing over this timeframe?
-- Hypothesis test to see if slope of line is 0: p-value: 0.2117
-- P-value: >0.05 so there is no change over time
 ![Number of Hospitalizations Line](./images/no_of_reported_hospitalizations_foodborne_illness_1998_2015.png)
 
 #### Number of Deaths per Year
 - Mean number of deaths over this timeframe was 19 per year
-- Slightly increasing over this timeframe?
-- Hypothesis test to see if slope of line is 0: p-value: 0.8302
-- P-value: >0.05 so there is no change over time
 ![Number of Deaths](./images/no_of_deaths_reported_foodborne_illness_1998_2015.png)
+
+#### Cost of Foodborne Illness
+![Top 15 Pathogens Cost](./images/cost_top15pathogens_2018.png)
+
+#### Foodborne Illnesses by Causative agents
+![Top 10 Causative Agents](./images/top10_causative_agents_by_no_illnesses.png)
+
+#### Foodborne Illnesses by Location of Preparation
+![Top 10 Location of Preparation](./images/top10_location_preparation_by_no_illnesses.png)
+
+#### Foodborne Illnesses by Food vehicle
+![Top 10 Food Vehicle](./images/top10_food_vehicles_by_no_illnesses.png)
 
 ## Link to Tableau Dashboard
 
 ## Sources
+
 CDC Dataset:
 https://data.world/cdc/foodborne-outbreak-database/workspace/file?filename=FoodData.xlsx
+
 USDA ERS Dataset:
 https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses.aspx
