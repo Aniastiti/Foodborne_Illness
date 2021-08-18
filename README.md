@@ -68,7 +68,7 @@ My analysis of the data centered on three questions:
 
 #### Foodborne Illness per Capita by State
 - States with a higher population have a higher foodborne illness per capita rate
-![Top 10 States](./images/top10_states_by_illnessespercapita)
+![Top 10 States](./images/top10_states_by_illnessespercapita.png)
 
 #### Foodborne Illnesses by Causative agents
 - Highest occurring causative agent is Norovirus
@@ -94,4 +94,6 @@ https://data.world/cdc/foodborne-outbreak-database/workspace/file?filename=FoodD
 USDA ERS Dataset:
 https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses.aspx
 
-Hoffmann, Sandra, Michael Batz, J. Glenn Morris Jr.  2012.  “Annual Cost of Illness and Quality-Adjusted Life Year Losses in the United States Due to 14 Foodborne Pathogens.” J. Food Protection 75(7):1291-1302
+Annual Cost of Illness and Quality-Adjusted Life Year Losses in
+the United States Due to 14 Foodborne Pathogens:
+https://pubag.nal.usda.gov/pubag/downloadPDF.xhtml?id=59522&content=PDF
