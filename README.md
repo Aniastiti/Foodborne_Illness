@@ -29,7 +29,7 @@ illness still occurs. I plan to explore possible reasons for that.
 
 ## Analytical Approach
 I pulled a dataset on reported cases of foodborne illness from 1998 to 2015 from the CDC.
-This dataset included the number of illnesses, hospitalizations and deaths associated
+This dataset included the reported number of illnesses, hospitalizations and deaths associated
 with foodborne illness. The dataset also contained information on causative agents,
 state where the illness occurred, location where the food was prepared and the food vehicle
 associated with the illnesses that allowed me to filter the illnesses and group them
@@ -41,7 +41,7 @@ My analysis of the data centered on three questions:
 - What are possible sources of contamination that can be better controlled to make food safer for consumption?
 
 ## Tools Used
-- Excel - Original format of data, used for some EDA
+- Excel/CSV - Original format of data, used for some EDA
 - Python - EDA, building dataframes, analysis and visualizations
 - Tableau - Visualization dashboard
 - Atom - Text editor used to write the ReadMe file
@@ -93,3 +93,5 @@ https://data.world/cdc/foodborne-outbreak-database/workspace/file?filename=FoodD
 
 USDA ERS Dataset:
 https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses.aspx
+
+Hoffmann, Sandra, Michael Batz, J. Glenn Morris Jr.  2012.  “Annual Cost of Illness and Quality-Adjusted Life Year Losses in the United States Due to 14 Foodborne Pathogens.” J. Food Protection 75(7):1291-1302
