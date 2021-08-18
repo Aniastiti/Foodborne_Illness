@@ -62,18 +62,29 @@ My analysis of the data centered on three questions:
 ![Number of Deaths](./images/no_of_deaths_reported_foodborne_illness_1998_2015.png)
 
 #### Cost of Foodborne Illness
+- Salmonella ssp. is pathogen with the highest estimated cost of $4.1 billion
+- Total estimated costs associated with foodborne illness for the top 15 foodborne pathogens in 2018 is $17.6 billion
 ![Top 15 Pathogens Cost](./images/cost_top15pathogens_2018.png)
 
+#### Foodborne Illness per Capita by State
+- States with a higher population have a higher foodborne illness per capita rate
+![Top 10 States](./images/top10_states_by_illnessespercapita)
+
 #### Foodborne Illnesses by Causative agents
+- Highest occurring causative agent is Norovirus
 ![Top 10 Causative Agents](./images/top10_causative_agents_by_no_illnesses.png)
 
 #### Foodborne Illnesses by Location of Preparation
+- Highest occurring preparation location is a restaurant
 ![Top 10 Location of Preparation](./images/top10_location_preparation_by_no_illnesses.png)
 
 #### Foodborne Illnesses by Food vehicle
+Highest occurring food vehicle is multiple foods
 ![Top 10 Food Vehicle](./images/top10_food_vehicles_by_no_illnesses.png)
 
 ## Link to Tableau Dashboard
+- Click the following link to see the interactive dashboard on Tableau Public
+
 
 ## Sources
 
