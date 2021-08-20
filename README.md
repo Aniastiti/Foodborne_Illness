@@ -83,7 +83,7 @@ Highest occurring food vehicle is multiple foods
 ![Top 10 Food Vehicle](./images/top10_food_vehicles_by_no_illnesses.png)
 
 ## Link to Tableau Dashboard
-- Click the following link to see the interactive dashboard on Tableau Public:
+Click the following link to see the interactive dashboard on Tableau Public:
 https://public.tableau.com/app/profile/ryan.butler1292/viz/FoodborneIllnessDashboard_16293827026280/Dashboard1?publish=yes
 
 ## Sources
